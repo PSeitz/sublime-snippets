@@ -1,0 +1,10 @@
+<snippet>
+    <content><![CDATA[
+for(let ${1:prop} of ${2:arr}){
+	${0}
+}
+]]></content>
+    <tabTrigger>for of</tabTrigger>
+    <scope>source.js</scope>
+    <description>for of</description>
+</snippet>
